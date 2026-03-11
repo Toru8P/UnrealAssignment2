@@ -1,1 +1,1 @@
-All done beside zombie animation, somehow it works on player but doesnt works on zombies
+All done ;)
